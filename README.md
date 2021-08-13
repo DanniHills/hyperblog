@@ -5,6 +5,7 @@ Un blog  para el curso de[ Git y GitHub](https://platzi.com/clases/git-github/ "
 - Fujo de trabajo de GitHub
 - Trabajo con repositorio remoto
 - Entornos de  trabajo
+- Ejemplos 
 
 
 ------------
