@@ -4,6 +4,7 @@ Un blog  para el curso de[ Git y GitHub](https://platzi.com/clases/git-github/ "
 - Comando de Git
 - Fujo de trabajo de GitHub
 - Trabajo con repositorio remoto
+- Entornos de  trabajo
 
 
 ------------
